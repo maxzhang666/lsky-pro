@@ -4,7 +4,7 @@
 .LSOverride
 .idea
 .vscode
-
+composer.lock
 runtime
 /config/db.php
 .env
@@ -31,3 +31,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#phpstudy pro
+publish/error
